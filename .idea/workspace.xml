@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d5e435-96a4-4cd6-8c91-475afa111f2d" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f9d5e435-96a4-4cd6-8c91-475afa111f2d" name="Changes" comment="Hello World">
+      <change afterPath="$PROJECT_DIR$/example/receive.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mouse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
       <workItem from="1657447515333" duration="597000" />
       <workItem from="1657456253057" duration="328000" />
       <workItem from="1657456681997" duration="1397000" />
-      <workItem from="1657460708577" duration="1030000" />
+      <workItem from="1657460708577" duration="8260000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1657439246361</created>
@@ -220,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657461081807</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Hello World">
+      <created>1657462040780</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1657462040780</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,10 +243,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hello World" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Hello World!" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
   </component>
 </project>

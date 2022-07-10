@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d5e435-96a4-4cd6-8c91-475afa111f2d" name="Changes" comment="Hello World!" />
+    <list default="true" id="f9d5e435-96a4-4cd6-8c91-475afa111f2d" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +78,7 @@
       <workItem from="1657446419624" duration="137000" />
       <workItem from="1657447515333" duration="597000" />
       <workItem from="1657456253057" duration="328000" />
-      <workItem from="1657456681997" duration="414000" />
+      <workItem from="1657456681997" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1657439246361</created>
@@ -178,7 +178,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657456912560</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Hello World!">
+      <created>1657457110434</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657457110434</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Hello World!">
+      <created>1657457173069</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657457173069</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Initial Commit">
+      <created>1657457339465</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657457339465</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +220,7 @@
     <MESSAGE value="Hello World" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Hello World!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World!" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
